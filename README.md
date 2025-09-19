@@ -1,6 +1,7 @@
 <h1>hi :)</h1>
 <p>my name is josh, im a student dev currently coding for fun.</p>
-<p>i also lead a hackclub affliated coding club called <a href="https://barracoders.com/">barracoders</a>, so check that out, we do cool stuff sometimes.
+<p>i also lead a hackclub affliated coding club called <a href="https://barracoders.com/">barracoders</a>, so check that out, we do cool stuff sometimes.</p>
+<p> currently leading daydream st. augustine - > <a href="https://daydream.hackclub.com">learn more here</a></p>
 <p>you can find more on <a href="https://i-suck-at-most-stuff.github.io">my portfolio</a> if you really want to.</p>
 <p>well, thanks for visiting my profile i guess.</p>
 <p>- josh \(^w^)/</p>
