@@ -1,5 +1,5 @@
 <h1>hi :)</h1>
-<p>my name is josh, im a student dev currently coding for fun.</p>
+<p>my name is josh.<a href="https://www.w3.org/1999/xhtml/">xhtml</a>, im a student dev currently coding for fun.</p>
 <p>i also lead a hackclub affliated coding club called <a href="https://barracoders.com/">barracoders</a>, so check that out, we do cool stuff sometimes.</p>
 <p> past projects include leading daydream st. augustine - > <a href="https://daydream.hackclub.com">learn more here</a> and counterspell st. augustine - > <a href="https://counterspell.hackclub.com">learn more here</a></p>
 <p>you can find more on <a href="https://joshxhtml.github.io">my portfolio</a> if you really want to.</p>
